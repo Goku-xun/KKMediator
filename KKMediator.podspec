@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "KKMediator"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "KKMediator is a middle layer for Component development for iOS."
 
   # This description is used to generate tags and improve search results.
