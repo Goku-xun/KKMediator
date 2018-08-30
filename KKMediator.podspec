@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "KKMediator"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "KKMediator is a middle layer for Component development for iOS."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ KKMediator is a middle layer for Component development for iOS in our applicatio
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "KKMediator/KKMediator/*.{h,m}"
+  spec.source_files  = "KKMediator/KKMediator/*"
   spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
