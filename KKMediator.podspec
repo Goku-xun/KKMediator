@@ -91,7 +91,7 @@ KKMediator is a middle layer for Component development for iOS in our applicatio
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/Classes/*.{h,m}"
+  spec.source_files  = "KKMediator/KKMediator/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
